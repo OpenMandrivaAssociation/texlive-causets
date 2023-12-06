@@ -1,6 +1,6 @@
 Name:		texlive-causets
-Version:	63366
-Release:	2
+Version:	66359
+Release:	1
 Summary:	Draw causal set (Hasse) diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/causets
